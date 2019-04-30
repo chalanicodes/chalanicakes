@@ -2,7 +2,7 @@
   { "id": 0,
     "animation": "card",
     "title": "Ballon Guard",
-    "description": "50s Micro Models Aust Ford Truck ",
+    "description": "This a gorgeous chocolate sponge cake frosted and sandwiched between whipped cream and maraschino cherries. Chocolate shavings are sprinkled all over the cake to give it a richer taste ",
     "price": 25.99
   },
   { "id": 1,
@@ -45,7 +45,7 @@
     "animation": "card",
     "title": "Racing Car Bugatti",
     "description": "50s Tin Toy Yonezawa Fire Engine",
-    "price": 17.99
+    "price": 300
   },
   { "id": 8,
     "animation": "card",
